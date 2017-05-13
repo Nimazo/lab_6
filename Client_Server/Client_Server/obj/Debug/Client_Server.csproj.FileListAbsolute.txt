@@ -1,0 +1,10 @@
+C:\Users\Артур\Desktop\Client_Server\Client_Server\bin\Debug\Client_Server.exe.config
+C:\Users\Артур\Desktop\Client_Server\Client_Server\bin\Debug\Client_Server.exe
+C:\Users\Артур\Desktop\Client_Server\Client_Server\bin\Debug\Client_Server.pdb
+C:\Users\Артур\Desktop\Client_Server\Client_Server\obj\Debug\Client_Server.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Client_Server\Client_Server\obj\Debug\Client_Server.Form1.resources
+C:\Users\Артур\Desktop\Client_Server\Client_Server\obj\Debug\Client_Server.Properties.Resources.resources
+C:\Users\Артур\Desktop\Client_Server\Client_Server\obj\Debug\Client_Server.csproj.GenerateResource.Cache
+C:\Users\Артур\Desktop\Client_Server\Client_Server\obj\Debug\Client_Server.exe
+C:\Users\Артур\Desktop\Client_Server\Client_Server\obj\Debug\Client_Server.pdb
+C:\Users\Артур\Desktop\Client_Server\Client_Server\obj\Debug\Client_Server.Form2.resources
